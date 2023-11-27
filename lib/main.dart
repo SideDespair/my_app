@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+
 // คำสั่ง Import
-void main() {
-  runApp(const MyApp());
-}
+void main() {}
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
